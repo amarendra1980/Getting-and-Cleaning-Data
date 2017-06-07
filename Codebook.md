@@ -1,7 +1,7 @@
-#Codebook
+# Codebook
 Codebook was generated on  "2017-06-07 12:25:27"
 
-##Variable list and Description
+## Variable list and Description
 subject       			- ID of the subject who performed the activity for each window sample. Its range is from 1 to 30.
 activityName      		- Activity name
 tBodyAccmeanX     		- Body Accelerator mean on X axis
@@ -71,7 +71,7 @@ fBodyBodyGyroMagstd 	- fBody gyroscope mag Std deviation
 fBodyBodyGyroJerkMagmean- fBody gyroscope jerk mag mean
 fBodyBodyGyroJerkMagstd	- fBody gyroscopr jerk mag Std deviation
 
-##Dataset structure
+## Dataset structure
 'data.frame':   180 obs. of  68 variables:
  $ subject                 : int  1 1 1 1 1 1 2 2 2 2 ...
  $ activityName            : Factor w/ 6 levels "LAYING","SITTING",..: 1 2 3 4 5 6 1 2 3 4 ...
